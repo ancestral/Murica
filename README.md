@@ -5,19 +5,19 @@ A mod for Baldur’s Gate 3 that replaces British English with the far better US
 
 ## FAQ
 
-### What is this?
+#### What is this?
 This is a mod that just changes the text in the game to US English spellings.
 
-### Are there new classes?
+#### Are there new classes?
 No.
 
-### Is there any new content?
+#### Is there any new content?
 No.
 
-### I don’t get it. What does this do again?
+#### I don’t get it. What does this do again?
 Words like “armour” and “colour” are now “armor” and “color”. That’s it.
 
-### AMERICA!
+#### AMERICA!
 F**k yeah!
 
 ## About
