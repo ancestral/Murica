@@ -6,13 +6,13 @@ A mod for Baldur’s Gate 3 that replaces British English with the far better US
 ![Insert overtly patriotic image with an eagle and an American flag.](america.jpg)
 
 ## About
-I didn’t think it could bother me, but I quickly became tired of seeing screen after screen of British spellings. After the umpteenth time seeing “Armour Class” and cringing, I decided to take matters into my own hands.
+I quickly became tired of seeing British spellings. After the umpteenth time seeing “Armour Class”, I decided to take matters into my own hands.
 
-I’ll be honest… at first, I was skeptical, as it wasn’t a glamorous endeavor, laboring over tons of unforgivable and unsavory words. However, I realized the file was reconcilable, skillfully utilizing my marvelous judgment.
+At first, I was skeptical, as it wasn’t a glamorous endeavor, laboring over tons of unforgivable and unsavory words. However, I realized the idea was reconcilable, skillfully utilizing my marvelous judgment.
 
 ## Goals
 * Provide American spellings of English words instead of their British counterparts.
-* Don’t change words in the dialogue (dialog?) so it still matches the audio.
+* Maintain the choice words in the dialogue (dialog?) so it still matches the audio.
 
 ## FAQ
 
@@ -27,9 +27,6 @@ No.
 
 #### I don’t get it. What does this do again?
 Words like “armour” and “colour” are now “armor” and “color”. That’s it.
-
-#### AMERICA!
-F**k yeah!
 
 ## How to Build
 Dependencies:
