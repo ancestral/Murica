@@ -33,11 +33,11 @@ echo "**                                                                        
 echo "**                                                                            **"
 echo "**  ’MURICA!                                                                  **"
 echo "**                                                                            **"
-echo "**  Replaces British English spellings for Baldur’s Gate 3                    **"
-echo "**  with the far better US English. F**k yeah!                                **"
+echo "**  Replaces British English spellings for Baldur’s Gate 3 with the           **"
+echo "**  far better US English. F**k yeah!                                         **"
 echo "**                                                                            **"
 echo "**  by ancestral                                                              **"
-echo "**  Last updated Aug 12 2023                                                  **"
+echo "**  Last updated Aug 13 2023                                                  **"
 echo "**                                                                            **"
 echo "**  Is something not working? Are there missing words? Please leave feedback  **"
 echo "**  at https://github.com/ancestral/Murica or find me on the Larian Discord.  **"
@@ -58,6 +58,7 @@ echo '<contentList>' >> matches.xml
 # Force each element onto one line by folding newlines
 # (Larian uses CRLF)
 perl -pi -e 's/([^>])\r\n$/$1\\n /g while m/[^>]\r\n$/' English_0.xml
+perl -pi -e 's/([^>])\r\n$/$1\\n /g'  English_0.xml
 
 echo "Finding lines to replace..."
 
