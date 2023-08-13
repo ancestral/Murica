@@ -42,12 +42,10 @@ Build Instructions:
 3. Move or copy the XML file to this directory. (Rename it to `English.xml` if necessary.)
 4. Run `translate.sh`. A file named `Murica.xml` will be created.
 5. Convert the XML file back to `.loca`.
-6. Convert the file back to `.pak`.
-
-
+6. Pack the file back in the proper directory back to `.pak`.
 
 ## Notes
-The entire mod is just a localizaton patch for `English.pak`. All the strings in the game are in a localization file. Loading this mod patches, or overwrites the existing strings.
+The entire mod is just a localization patch for `English.pak`. All the strings in the game are in a localization file. Loading this mod patches, or overwrites the existing strings.
 
 This project is both a record on which strings to change in the localization file, and a compiled `.pak` mod for people to download and install with all the changes.
 
