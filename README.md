@@ -1,16 +1,29 @@
 # Murica
 A mod for Baldur’s Gate 3 that replaces British English with the far better US English. F**k yeah!
 
-## Impetus
+## About
 I didn’t think it could bother me, but I quickly became tired of seeing screen after screen of “armour” and “colour”. So I decided to take matters into my own hands.
 
 At first, I was skeptical, as it was an ardorous endeavor, laboring over tons of unforgivable and unsavory words. However, I realized the file was reconcilable, skillfully utilizing my marvelous judgment.
 
-(I feel better now!)
-
 ## Goals
 * Provide American spellings of English words instead of their British counterparts.
 * Don’t change words in the dialogue (dialog?) so it still matches the audio.
+
+## How to Build
+Dependencies:
+* Some UNIX commands like `tr`
+* Perl 5
+
+Build Instructions:
+1. Unpack the `English.pak` file (which is found in the BG3 Data directory) using the [ExportTool](https://github.com/Norbyte/lslib/releases) into a new directory.
+2. Convert the `.loca` file to XML.
+3. Move or copy the XML file to this directory. (Rename it to `English.xml` if necessary.)
+4. Run `translate.sh`. A file named `Murica.xml` will be created.
+5. Convert the XML file back to `.loca`.
+6. Convert the file back to `.pak`.
+
+
 
 ## Notes
 The entire mod is just a localizaton patch for `English.pak`. All the strings in the game are in a localization file. Loading this mod patches, or overwrites the existing strings.
