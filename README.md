@@ -1,6 +1,8 @@
 # Murica
 A mod for Baldur’s Gate 3 that replaces British English with the far better US English. F**k yeah!
 
+![Insert overtly patriotic image with an eagle and an American flag.](america.jpg)
+
 ## About
 I didn’t think it could bother me, but I quickly became tired of seeing screen after screen of “armour” and “colour”. So I decided to take matters into my own hands.
 
