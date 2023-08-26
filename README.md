@@ -1,7 +1,7 @@
 # Murica
 A mod for Baldur’s Gate 3 that replaces British English with the far better US English.
 
-[Download the latest version here! (1.0)](https://github.com/ancestral/Murica/releases/download/1.0/Murica_1.0a.zip)
+[Download the latest version here! (1.1)](https://github.com/ancestral/Murica/releases/download/1.0/Murica1.1.zip)
 
 ![Insert overtly patriotic image with an eagle and an American flag.](america.jpg)
 
